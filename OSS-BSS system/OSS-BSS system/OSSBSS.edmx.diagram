@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5dbe6bb98b434e5b8ede4e64b923baf9" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.Application" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.ApplicationStatus" Width="1.5" PointX="0.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.CompletedApplication" Width="1.5" PointX="6" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Contract" Width="1.5" PointX="3.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Customer" Width="1.5" PointX="6" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Discount" Width="1.5" PointX="0.75" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Equipment" Width="1.5" PointX="4" PointY="23.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Event" Width="1.5" PointX="1.5" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Payment" Width="1.5" PointX="8.25" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Problem" Width="1.5" PointX="0.75" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Role" Width="1.5" PointX="3.75" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Service" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Staff" Width="1.5" PointX="0.75" PointY="18.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Tariff" Width="1.5" PointX="3.75" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TypeOfEquipment" Width="1.5" PointX="0.75" PointY="27" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.TypeOfService" Width="1.5" PointX="0.75" PointY="31.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.VidOfService" Width="1.5" PointX="0.75" PointY="34.125" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_Application_ApplicationStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Application_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Application_Discount" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Application_Problem" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Application_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Application_Staff1" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Application_TypeOfEquipment" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Application_TypeOfService" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Application_VidOfService" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_CompletedApplication_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_CompletedApplication_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_CompletedApplication_Staff" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Customer_Contract" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Customer_Role" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Customer_Service" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Customer_Tariff" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Payment_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Equipment_Staff" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Equipment_TypeOfEquipment" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Staff_Event" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_Payment_Tariff" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

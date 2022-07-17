@@ -1,0 +1,241 @@
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.exe.config
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.exe
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.pdb
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.AssemblyReference.cache
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Properties.Resources.resources
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.GenerateResource.cache
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.CoreCompileInputs.cache
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.exe
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.pdb
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Login.resources
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.EquipmentManagement.resources
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Subscribers.resources
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Assets.resources
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Support.resources
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.AddEquipment.resources
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.dll
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.SqlServer.dll
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.xml
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.SqlServer.xml
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\ru\EntityFramework.resources.dll
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.CopyComplete
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Core.dll
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Design.dll
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Web.dll
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Web.Mvc.dll
+D:\Диплом\Последний вариант\Diploma\OSS-BSS system\OSS-BSS system\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.exe.config
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.exe
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.pdb
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.SqlServer.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Core.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Design.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Web.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Web.Mvc.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.SqlServer.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\ru\EntityFramework.resources.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.AssemblyReference.cache
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.SuggestedBindingRedirects.cache
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.AddEquipment.resources
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Assets.resources
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.EquipmentManagement.resources
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Login.resources
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Subscribers.resources
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Properties.Resources.resources
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Support.resources
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.GenerateResource.cache
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.CoreCompileInputs.cache
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.CopyComplete
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.exe
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.pdb
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.exe.config
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.exe
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.pdb
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.SqlServer.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Core.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Design.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Web.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Web.Mvc.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.SqlServer.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\ru\EntityFramework.resources.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.AssemblyReference.cache
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.AddDiscount.resources
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.AddEquipment.resources
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Assets.resources
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.EquipmentManagement.resources
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Login.resources
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Subscribers.resources
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Properties.Resources.resources
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Support.resources
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.GenerateResource.cache
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.CoreCompileInputs.cache
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.CopyComplete
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.exe
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.pdb
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\BouncyCastle.Crypto.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Hash.xxHash.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\MySql.Data.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Buffers.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Memory.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Numerics.Vectors.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Ubiety.Dns.Core.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\ZstdNet.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.pdb
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Hash.xxHash.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\MySql.Data.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Buffers.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Memory.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Numerics.Vectors.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Newtonsoft.Json.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Twilio.dll
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Newtonsoft.Json.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Twilio.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\BouncyCastle.Crypto.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Hash.xxHash.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\MySql.Data.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Newtonsoft.Json.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Buffers.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Memory.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Numerics.Vectors.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Twilio.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Ubiety.Dns.Core.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\ZstdNet.dll
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.pdb
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Hash.xxHash.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\MySql.Data.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Newtonsoft.Json.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Buffers.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Memory.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Numerics.Vectors.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\bin\Debug\Twilio.xml
+D:\111ДИПЛОМ\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.AddDiscount.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.exe.config
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.exe
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\OSS-BSS system.pdb
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\BouncyCastle.Crypto.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.SqlServer.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\ExcelLibrary.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\itextsharp.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Hash.xxHash.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\MySql.Data.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Newtonsoft.Json.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Buffers.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Memory.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Numerics.Vectors.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Twilio.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Ubiety.Dns.Core.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Core.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Design.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Web.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Zen.Barcode.Web.Mvc.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\ZstdNet.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\EntityFramework.SqlServer.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.pdb
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Google.Protobuf.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\itextsharp.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\K4os.Hash.xxHash.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\MySql.Data.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Newtonsoft.Json.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Buffers.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Memory.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Numerics.Vectors.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Twilio.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\ru\EntityFramework.resources.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.AssemblyReference.cache
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.SuggestedBindingRedirects.cache
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Assets.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.EquipmentManagement.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Login.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Subscribers.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Properties.Resources.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Support.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.GenerateResource.cache
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.CoreCompileInputs.cache
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.csproj.CopyComplete
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.exe
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS-BSS system.pdb
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.Net.Http.Headers.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Text.Encodings.Web.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.Net.Http.Headers.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Text.Encodings.Web.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\GemBox.Spreadsheet.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\GemBox.Spreadsheet.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.ReceiptOrder.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\CsQuery.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\CsQuery.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\PagedList.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\PagedList.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Act.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.Invoice.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\obj\Debug\OSS_BSS_system.SalesInvoce.resources
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Text.Json.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.ValueTuple.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\VisioForge.Core.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\VisioForge.Libs.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\VisioForge.MediaFramework.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\VisioForge.Types.dll
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Text.Json.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Диплом\Последний вариант\Itog\OSS-BSS system\OSS-BSS system\bin\Debug\System.ValueTuple.xml
